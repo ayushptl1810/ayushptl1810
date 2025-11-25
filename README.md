@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey! I'm Ayush 👋  
+**Full Stack Developer** | Mumbai, India  
 
-<!--
-**ayushptl1810/ayushptl1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love turning ideas into smooth, beautiful web experiences that people actually enjoy using. Right now I’m chasing dual degrees in Data Science while spending most of my free time building full-stack projects that feel clean, fast, and a little bit clever.
 
-Here are some ideas to get you started:
+---
+## 🚀 What I’m Up To  
+- Diving head-first into **Unreal Engine and Unity** very soon (game dev was my first love and it’s finally calling me back)  
+- Cooking up full-stack apps with the latest tools  
+- Slowly bringing my childhood dream of making games back to life  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠️ Tech Stack  
+**Frontend:** React • Next.js • Vue • Tailwind • Framer Motion  
+**Backend:** Node.js • Express • Flask • FastAPI  
+**Databases:** MongoDB • Redis  
+**Fun stuff:** Git • Celery • Socket.IO • LangChain • CrewAI  
+
+---
+## 📬 Let’s Connect  
+- **Email:** [ayushptl1810@gmail.com](mailto:ayushptl1810@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ayushptl1810](https://www.linkedin.com/in/ayushptl1810/)  
+- **Portfolio:** [ayush.info](https://ayush.info/)  
+
+---
+## 💡 A Bit About Me  
+I’m the guy who’ll stay back to fix that one annoying bug, jump in to help unblock someone, and always ship things properly. When I’m not staring at code, you’ll probably find me cheering for Manchester United, grinding ranked in whatever game I’m obsessed with that week, or lost in a playlist.  
+
+I’m all about learning new things, pushing what I can build, and working with good people on exciting projects.  
+
+Always up for a collab, a chat, or just geeking out over tech and games. Hit me up! 🚀
