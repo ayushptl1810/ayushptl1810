@@ -13,11 +13,11 @@ I love turning ideas into smooth, beautiful web experiences that people actually
 ## 🛠️ Tech Stack  
 **Frontend:** ReactJS • Next.js • VueJS • Tailwind  
 **Backend:** Node.js • ExpressJs • Flask • FastAPI  
-**Databases:** MongoDB • Redis • PostgreSQL • MySQL
-**Machine Learning & AI:** TensorFlow • PyTorch • Scikit-Learn • NLP • LangChain • Pinecone • Faiss • Sentence-Transformers
-**Data Processing & Visualization:** Pandas • NumPy • Matplotlib • Seaborn • Plotly
-**Tools:** Git • Playwright • BeautifulSoup4 • Socket.IO
-**Robotics, Drones & CV:** MAVSDK • PyMavlink • PyMavSwarm • OpenCV • DepthAI 
+**Databases:** MongoDB • Redis • PostgreSQL • MySQL  
+**Machine Learning & AI:** TensorFlow • PyTorch • Scikit-Learn • NLP • LangChain • Pinecone • Faiss • Sentence-Transformers  
+**Data Processing & Visualization:** Pandas • NumPy • Matplotlib • Seaborn • Plotly  
+**Tools:** Git • Playwright • BeautifulSoup4 • Socket.IO  
+**Robotics, Drones & CV:** MAVSDK • PyMavlink • PyMavSwarm • OpenCV • DepthAI  
 
 ---
 ## 📬 Let’s Connect  
