@@ -1,5 +1,10 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Ayush Patel</h1>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ayushptl1810/ayushptl1810/main/banner.jpeg"
+    width="1000"
+    alt="Profile Banner"
+  />
+</p>
 
 <p align="center">
   <img
@@ -13,17 +18,17 @@
     <img
       src="https://img.shields.io/badge/Email-ayushptl1810%40gmail.com-0c0c0c?style=for-the-badge&logo=gmail&logoColor=white"
     />
-  </a>
+  </a>&nbsp;&nbsp
   <a href="https://linkedin.com/in/ayushptl1810" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Ayush%20Patel-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
-  </a>
+  </a>&nbsp;&nbsp
   <a href="https://ayush.info" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-ayush.info-000000?style=for-the-badge&logo=vercel&logoColor=white"
     />
-  </a>
+  </a>&nbsp;&nbsp
 </p>
 
 <p align="center">
