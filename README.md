@@ -119,7 +119,7 @@ I am a 3rd-year student pursuing a dual degree in:
 </p>
 
 ## 📌 Pinned Repositories  
-
+ 
 <table>
   <tr>
     <td width="50%">
@@ -188,9 +188,6 @@ I am a 3rd-year student pursuing a dual degree in:
 ## 🤝 Let’s Connect & Build
 
 I’m always excited to collaborate on **full-stack projects, GenAI applications, LLM-driven systems**, and **agentic AI prototypes**.
-
 Whether it’s **hackathons, AI-first products, research integrations**, or just exchanging ideas — feel free to reach out!
-
 Outside of tech, I enjoy playing and watching football, as well as gaming.
-
 ⭐ If you like my work, consider starring some repos – it really motivates me!
