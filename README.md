@@ -43,6 +43,7 @@
 I am a 3rd-year student pursuing a dual degree in:
 - **B.Tech in Computer Science and Data Science** — Dwarkadas J. Sanghvi College of Engineering  
 - **B.Sc in Data Science** — Indian Institute of Technology Madras
+- 3x Hackathon Winner @ IndiaNext, DevHacks & Codefolio
 - Research Intern @ IIT Bombay
 - Actively participated in **10+ hackathons**
 - Passionate about **ownership, execution, and impact**
